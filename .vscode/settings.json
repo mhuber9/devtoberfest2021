@@ -4,5 +4,6 @@
     "**/.git": true,
     "**/.vscode": true
 },
-"actions": []
+"actions": [],
+"git.ignoreLimitWarning": true
 }
